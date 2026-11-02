@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 
 /data
+.venv/
+.ipynb_checkpoints/
